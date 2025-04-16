@@ -1,0 +1,3 @@
+../Core/Src/utils.c:12:6:loop	24	static
+../Core/Src/utils.c:44:6:setup	8	static
+../Core/Src/utils.c:51:6:UTILS_WaitN10ms	32	static

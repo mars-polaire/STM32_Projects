@@ -1,0 +1,7 @@
+../Core/Src/task.c:33:6:TASK_Init	1
+../Core/Src/task.c:43:6:TASK_Inite	1
+../Core/Src/task.c:57:6:TASK_Button	1
+../Core/Src/task.c:63:6:TASK_Evolve	11
+../Core/Src/task.c:116:6:TASK_Evolv	7
+../Core/Src/task.c:146:6:TASK_LED	4
+../Core/Src/task.c:156:6:TASK_LEED	6
